@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/CSCI 262/Project_4_Markov/model.h
+string
+-
+
+Z:/CSCI 262/Project_4_Markov/word_model.cpp
+word_model.h
+Z:/CSCI 262/Project_4_Markov/word_model.h
+
+Z:/CSCI 262/Project_4_Markov/word_model.h
+model.h
+Z:/CSCI 262/Project_4_Markov/model.h
+sstream
+-
+map
+-
+vector
+-
+

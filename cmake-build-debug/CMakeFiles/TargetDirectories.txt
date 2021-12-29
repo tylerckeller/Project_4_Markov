@@ -1,0 +1,3 @@
+Z:/CSCI 262/Project_4_Markov/cmake-build-debug/CMakeFiles/markov.dir
+Z:/CSCI 262/Project_4_Markov/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/CSCI 262/Project_4_Markov/cmake-build-debug/CMakeFiles/rebuild_cache.dir
